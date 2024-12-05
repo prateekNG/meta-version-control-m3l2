@@ -1,2 +1,1 @@
-Prateek
-Meta Frontend Developer Certification Course
+Prateek - Meta Frontend Developer Certification Course
